@@ -1,0 +1,108 @@
+@media screen and (max-width: 600px) {
+
+.herotextbutton p {
+font-size: 20px;
+}
+
+.herotextbutton h3 {
+    font-size: 30px;
+}
+
+.herotextbutton span{
+    font-size: 20px;
+}
+
+.heroButton{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 205px;
+    height: 50px;
+    font-size: 24px;
+}
+.heroimg{
+    display: none;
+}
+
+.checkOut{
+    margin-right: 0;
+}
+
+.TitleText{
+    font-size:60px;
+}
+
+
+.projectPicture{
+    display: none;
+}
+.aboutMeText {
+    font-size: 20px;
+}
+.ProjectDesctiption{
+    font-size: 20px;
+}
+#standard-basic{
+    width: 100px;
+}
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navigation ul{
+    font-size: 12px;
+}
+.button{
+    width: 75px;
+    height: 26px;
+    background-color: #FFD400;
+    border: none;
+    border-radius: 30px;
+}
+.navigation ul button li{
+    font-size: 12px;
+}
+.hamburgermanuIcon{
+    width: 30px;
+    height: 30px;
+}
+
+.activ{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 120px;
+    width: 100%;
+    height: 1000vh;
+    background-color: white;
+    z-index: 900;
+}
+.disable{
+    display: none;
+}
+.activ ul {
+    display: flex;
+    position: absolute;
+    top: 1%;
+    left: 33%;
+    flex-direction: column;
+    color: #403580;
+}
+.activ ul {
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    color: #403580;
+}
+.activ ul a li {
+    display: flex;
+    position: relative;
+    top: 0;
+    left: 0;
+    flex-direction: column;
+    color: #403580;
+    z-index: 999;
+}
+
+
+}
